@@ -26,7 +26,7 @@ class Modal extends React.Component {
                                         <li>I love playing around with my saw.<input type="checkbox" name="audio" /></li>
                                 </ul>
                                 <div>
-                                        <a href="../../result">
+                                        <a href="/cat-s-eye/#/result">
                                                 <button className="confirm" type="button"> Confirm
                                                 </button>
                                         </a>
